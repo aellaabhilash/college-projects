@@ -1,0 +1,1 @@
+This repository is compilation of all independent projects reports and some with codes which are done as part of Bachelors of Technology in Electrical Engineering, Indian Institute of Technology Hyderabad program.
